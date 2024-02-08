@@ -13,7 +13,7 @@ class MyTestCase(unittest.TestCase):
 
     def test3_get_sum(self):
         sum = get_sum(12,4)
-        self.assertTrue(sum < 210, "Test Pass")
+        self.assertTrue(sum < 2, "Test Pass")
 
 if __name__ == '__main__':
     unittest.main()
