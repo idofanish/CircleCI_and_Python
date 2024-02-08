@@ -1,6 +1,6 @@
-# ignore ALL files as listed below
+#ignore the below listed files:
 *.log
 
-# ignore the directories and its contents as listed below
+# ignore the below listed directories and its contents:
 temp/
 __pycache__/
