@@ -4,3 +4,4 @@
 # ignore the below listed directories and its contents:
 temp/
 __pycache__/
+__sshKEYS__/
